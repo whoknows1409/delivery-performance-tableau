@@ -1,0 +1,6 @@
+customer_region,orders,late_rate_pct,avg_delivery_days,avg_promised_days,median_freight_pct,avg_review
+Northeast,9015,12.76,19.99,30.54,31.5,3.97
+North,1791,8.6,22.59,37.44,35.7,4.03
+Central-West,5610,6.54,15.01,26.57,25.2,4.13
+Southeast,66020,6.13,10.73,21.53,20.6,4.18
+South,13767,5.92,14.02,26.32,25.2,4.19

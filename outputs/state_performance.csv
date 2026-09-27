@@ -1,0 +1,28 @@
+customer_state,customer_state_name,orders,late_rate_pct,avg_delivery_days,avg_review
+AL,Alagoas,396,21.46,24.52,3.85
+MA,Maranhão,713,17.53,21.54,3.83
+SE,Sergipe,332,15.36,21.44,3.9
+PI,Piauí,475,13.89,19.44,3.99
+CE,Ceará,1273,13.83,21.24,3.94
+RR,Roraima,40,12.5,29.91,3.9
+BA,Bahia,3253,12.17,19.33,3.93
+RJ,Rio de Janeiro,12310,12.14,15.3,3.97
+PA,Pará,942,11.25,23.76,3.91
+ES,Espírito Santo,1992,10.74,15.78,4.08
+PB,Paraíba,516,10.47,20.39,4.07
+TO,Tocantins,274,9.85,17.66,4.15
+MS,Mato Grosso do Sul,701,9.7,15.62,4.16
+PE,Pernambuco,1587,9.64,18.45,4.08
+RN,Rio Grande do Norte,470,9.36,19.21,4.14
+SC,Santa Catarina,3537,8.23,14.95,4.13
+GO,Goiás,1950,6.56,15.61,4.1
+RS,Rio Grande do Sul,5327,6.1,15.29,4.19
+MT,Mato Grosso,885,5.99,18.07,4.14
+DF,Distrito Federal,2074,5.69,12.94,4.13
+MG,Minas Gerais,11319,4.59,11.98,4.19
+SP,São Paulo,40399,4.5,8.74,4.25
+PR,Paraná,4903,4.06,11.97,4.24
+AC,Acre,80,3.75,21.04,4.09
+AP,Amapá,67,2.99,27.19,4.24
+RO,Rondônia,243,2.88,19.37,4.17
+AM,Amazonas,145,2.76,26.43,4.24
