@@ -78,6 +78,4 @@ python src/build_model.py   # raw tables -> data/tableau/orders.csv, items.csv
 python src/analyze.py       # independent check of every dashboard number -> outputs/
 ```
 
-The Tableau build steps are in [BUILD_GUIDE.md](BUILD_GUIDE.md).
-
 **Tools:** Tableau Public, Python (pandas)
